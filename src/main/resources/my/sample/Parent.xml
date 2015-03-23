@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parent>
+  <children>
+    <child>
+      <firstName>Ichiro</firstName>
+      <lastName>SUZUKI</lastName>
+      <birthday>1989/01/08</birthday>
+      <gender>male</gender>
+    </child>
+    <child>
+      <firstName>Hanako</firstName>
+      <lastName>SUZUKI</lastName>
+      <birthday>2000/1/1</birthday>
+      <gender>female</gender>
+    </child>
+  </children>
+</parent>
